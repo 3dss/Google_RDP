@@ -7,10 +7,8 @@ https://colab.research.google.com/#create=true
 
 2) then add the below code and run the cells:
 
-! wget https://raw.githubusercontent.com/3dss/Google_RDP/main/Create_RDP.sh &> /dev/null
-
-! chmod +x Create_RDP.sh
-
+! wget https://raw.githubusercontent.com/3dss/Google_RDP/main/Create_RDP.sh &> /dev/null</br>
+! chmod +x Create_RDP.sh</br>
 ! ./Create_RDP.sh
 
 3) then navigate to (in another tab):
