@@ -6,7 +6,7 @@
 https://colab.research.google.com/#create=true
 
 2) then add the below code and run the cells:
-! wget https://raw.githubusercontent.com/3dss/Google_RDP/main/Create_RDP.sh &> /dev/null 
+! wget https://raw.githubusercontent.com/3dss/Google_RDP/main/Create_RDP.sh &> /dev/null
 ! chmod +x Create_RDP.sh 
 ! ./Create_RDP.sh
 
@@ -23,4 +23,4 @@ https://remotedesktop.google.com/headless
 https://remotedesktop.google.com/access
     select your computer and enter the six digit code.
 
-###CONGRATULATIONS...
+### CONGRATULATIONS...
